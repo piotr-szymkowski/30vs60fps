@@ -37,9 +37,7 @@
             Compatible browsers: Firefox, Chrome, Safari, IE9+.<br/>
             (Stretching doesn't work on &lt; IE9 version)
             <br/><br/>
-            <a href="mailto:30vs60fps@exqstudio.com">30vs60fps@exqstudio.com</a>
-            <br/><br/>
-            <a href="https://github.com/exqstudio/30vs60fps.com" title="30vs60fps.com on Github"><img src="img/btn_github.png" alt="Github icon" /></a>             
+            <a href="https://github.com/piotr-szymkowski/30vs60fps" title="30vs60fps on Github"><img src="img/btn_github.png" alt="Github icon" /></a>             
             <br><br/>
             <span style="color:#999;">more games coming soon</span>
         </p>        
@@ -58,12 +56,6 @@
             </div>
         </div>
     <?php endif; ?>
-   
-    <div id="social-buttons">
-        <a title="Share 30vs60fps.com on Facebook" class="facebook" rel="nofollow" href="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://30vs60fps.com&p[images][0]=&p[title]=30%20vs%2060%20FPS%20-%20Will%20you%20be%20able%20to%20spot%20the%20difference?&p[summary]="></a>
-        <a title="Share 30vs60fps.com on Twitter" class="twitter" rel="nofollow" href="http://twitter.com/home?status=30fps%20vs%2060fps%20comparison%20-%20http://30vs60fps.com/"></a>
-        <a title="Share 30vs60fps.com on Google+" class="google" rel="nofollow" href="https://plus.google.com/share?url=http://30vs60fps.com/"></a>        
-    </div>
     
     <?php if(!$is_mobile): ?>    
         <div id="preloader-images">        
